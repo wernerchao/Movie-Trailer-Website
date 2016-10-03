@@ -4,8 +4,8 @@ Movie Trailer Website is a website that allows users to quickly
 view movies, general story line, and watch the trailers.
 
 ## Table of Contents
-- [Quick Start] (#Quick Start)
-- [Usage] (#Usage)
+- [Quick Start] (#Quick-Start)
+- [What's Included] (#What's-Included)
 
 ## Quick Start
 

@@ -4,8 +4,11 @@ Movie Trailer Website is a website that allows users to quickly
 view movies, general story line, and watch the trailers.
 
 ## Table of Contents
-- [Quick Start] (#Quick-Start)
-- [What's Included] (#What's-Included)
+- [Quick Start]
+- [What's Included]
+- [Creators]
+- [References]
+- [Copyright and License]
 
 ## Quick Start
 
@@ -49,7 +52,7 @@ Movie-Trailer-Website/
 We've used the following open source library to make this project:
 (https://github.com/wernerchao/ud036_StarterCode) 
 
-## Copyright and license
+## Copyright and License
 
 Code and documentation copyright 2016 the Project Movie Trailer
 Authors and released under the MIT license.

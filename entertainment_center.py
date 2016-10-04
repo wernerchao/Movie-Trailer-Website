@@ -3,7 +3,7 @@ import fresh_tomatoes
 
 toy_story = media.Movie("Toy Story",
                         "A story of a boy and his toys that come to life",
-                        "http://upload.wikimedia.org/wikipedia/en/1/13Toy_Story.jpg",  # NOQA
+                        "http://www.impawards.com/1995/posters/toy_story_ver1.jpg",  # NOQA
                         "https://www.youtube.com/watch?v=KYz2wyBy3kc")
 
 avatar = media.Movie("Avatar",

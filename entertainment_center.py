@@ -40,5 +40,7 @@ star_trek = media.Movie("Star Trek (2009)",
                         "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE5NDQ5OTE4Ml5BMl5BanBnXkFtZTcwOTE3NDIzMw@@._V1_SY1000_CR0,0,674,1000_AL_.jpg",  # NOQA
                         "https://www.youtube.com/watch?v=3PM1pvOzn_w", "5/5")
 
+# Put all movie instances into a list, use the list to generate 
+# a HTML file, and open it in browser. 
 movies = [toy_story, avatar, minority_report, jumper, transformer, star_trek]
 fresh_tomatoes.open_movies_page(movies)
